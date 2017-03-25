@@ -35,5 +35,5 @@
  [1]: http://www.google.com/
  [yahoo]: http://www.yahoo.com/
  文字链接 [百度](https://www.baidu.com/)  
-网址链接 <http://链接网址>
+网址链接 <http://www.google.com/>
 ![牡丹](http://pic6.huitu.com/res/20130116/84481_20130116142820494200_1.jpg)
